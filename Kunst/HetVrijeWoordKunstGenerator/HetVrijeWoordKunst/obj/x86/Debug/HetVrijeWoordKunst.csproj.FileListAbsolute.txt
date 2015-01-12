@@ -1,0 +1,3 @@
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\Kunstbryan\bin\x86\Debug\Kunstbryan.exe.config
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\Kunstbryan\obj\x86\Debug\Kunstbryan.exe
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\Kunstbryan\obj\x86\Debug\Kunstbryan.pdb

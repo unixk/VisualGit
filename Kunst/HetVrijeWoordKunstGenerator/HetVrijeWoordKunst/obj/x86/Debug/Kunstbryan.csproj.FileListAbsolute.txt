@@ -1,0 +1,8 @@
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\bin\x86\Debug\Kunstbryan.exe.config
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\bin\x86\Debug\Kunstbryan.exe
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\bin\x86\Debug\Kunstbryan.pdb
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x86\Debug\Kunstbryan.Form1.resources
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x86\Debug\Kunstbryan.Properties.Resources.resources
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x86\Debug\Kunstbryan.csproj.GenerateResource.Cache
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x86\Debug\Kunstbryan.exe
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x86\Debug\Kunstbryan.pdb

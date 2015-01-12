@@ -1,0 +1,19 @@
+c:\users\asus\documents\visual studio 2013\Projects\Kunstbryan\Kunstbryan\bin\Debug\Kunstbryan.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Kunstbryan\Kunstbryan\bin\Debug\Kunstbryan.exe
+c:\users\asus\documents\visual studio 2013\Projects\Kunstbryan\Kunstbryan\bin\Debug\Kunstbryan.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Kunstbryan\Kunstbryan\bin\Debug\System.Data.SQLite.dll
+c:\users\asus\documents\visual studio 2013\Projects\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.exe
+c:\users\asus\documents\visual studio 2013\Projects\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.pdb
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\bin\Debug\Kunstbryan.exe.config
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.exe
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.pdb
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\bin\Debug\Kunstbryan.exe
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\bin\Debug\Kunstbryan.pdb
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.csprojResolveAssemblyReference.cache
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.Form1.resources
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.Properties.Resources.resources
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\Debug\Kunstbryan.csproj.GenerateResource.Cache

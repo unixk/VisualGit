@@ -1,0 +1,9 @@
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\HetVrijeWoordKunst\bin\Debug\Kunstbryan.exe.config
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\HetVrijeWoordKunst\obj\Debug\Kunstbryan.exe
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\HetVrijeWoordKunst\obj\Debug\Kunstbryan.pdb
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\HetVrijeWoordKunst\bin\Debug\Kunstbryan.exe
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\HetVrijeWoordKunst\bin\Debug\Kunstbryan.pdb
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\HetVrijeWoordKunst\obj\Debug\Kunstbryan.Form1.resources
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\HetVrijeWoordKunst\obj\Debug\Kunstbryan.Properties.Resources.resources
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\HetVrijeWoordKunst\obj\Debug\HetVrijeWoordKunst.csproj.GenerateResource.Cache
+C:\Users\Janssensj\Desktop\Kunst\HetVrijeWoordKunstGenerator\HetVrijeWoordKunst\obj\Debug\HetVrijeWoordKunst.csprojResolveAssemblyReference.cache

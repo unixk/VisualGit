@@ -1,0 +1,9 @@
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\bin\x64\Debug\Kunstbryan.exe.config
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x64\Debug\Kunstbryan.Form1.resources
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x64\Debug\Kunstbryan.Properties.Resources.resources
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x64\Debug\Kunstbryan.csproj.GenerateResource.Cache
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\bin\x64\Debug\Kunstbryan.exe
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\bin\x64\Debug\Kunstbryan.pdb
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x64\Debug\Kunstbryan.csprojResolveAssemblyReference.cache
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x64\Debug\Kunstbryan.exe
+C:\Users\Janssensj\Desktop\Kunst\Kunstbryan\Kunstbryan\obj\x64\Debug\Kunstbryan.pdb
